@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{3422ED6E-99EE-4F43-AD51-2C4A34325207}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="zalculus\MainActivity.cs">
+    <Files>
+      <File FileName="zalculus\MainActivity.cs" Line="30" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.zalculus PreferredExecutionTarget="Android.SelectDevice" />
+</Properties>

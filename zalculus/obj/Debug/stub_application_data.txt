@@ -1,0 +1,2 @@
+android.app.Application
+com.int_double.clingk
