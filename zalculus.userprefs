@@ -6,8 +6,8 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="zalculus\MainActivity.cs">
     <Files>
-      <File FileName="zalculus\MainActivity.cs" Line="30" Column="2" />
+      <File FileName="zalculus\MainActivity.cs" Line="199" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.zalculus PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.ItemProperties.zalculus AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.AVD_for_Nexus_6" />
 </Properties>

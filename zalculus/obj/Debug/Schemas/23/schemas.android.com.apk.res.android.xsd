@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" elementFormDefault="unqualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>9/22/2016 3:09:25 PM</xs:documentation>
+    <xs:documentation>9/28/2016 2:07:41 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -16671,7 +16671,28 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@+id/" />
             <xs:enumeration value="@+id/checkBox1" />
-            <xs:enumeration value="@id/myButton" />
+            <xs:enumeration value="@id/buttonClear" />
+            <xs:enumeration value="@id/buttonDele" />
+            <xs:enumeration value="@id/buttonDevide" />
+            <xs:enumeration value="@id/buttonDot" />
+            <xs:enumeration value="@id/buttonEight" />
+            <xs:enumeration value="@id/buttonEquel" />
+            <xs:enumeration value="@id/buttonFive" />
+            <xs:enumeration value="@id/buttonFour" />
+            <xs:enumeration value="@id/buttonMinus" />
+            <xs:enumeration value="@id/buttonMultiple" />
+            <xs:enumeration value="@id/buttonNine" />
+            <xs:enumeration value="@id/buttonOne" />
+            <xs:enumeration value="@id/buttonPlus" />
+            <xs:enumeration value="@id/buttonSeven" />
+            <xs:enumeration value="@id/buttonSix" />
+            <xs:enumeration value="@id/buttonThree" />
+            <xs:enumeration value="@id/buttonTwo" />
+            <xs:enumeration value="@id/buttonZero" />
+            <xs:enumeration value="@id/linearLayout1" />
+            <xs:enumeration value="@id/linearLayout2" />
+            <xs:enumeration value="@id/linearLayout3" />
+            <xs:enumeration value="@id/textView1" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
             <xs:enumeration value="@android:id/accessibilityActionScrollLeft" />

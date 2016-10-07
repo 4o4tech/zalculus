@@ -11,7 +11,28 @@ public final class R {
     public static final class attr {
     }
     public static final class id {
-        public static final int myButton=0x7f050000;
+        public static final int buttonClear=0x7f050003;
+        public static final int buttonDele=0x7f050004;
+        public static final int buttonDevide=0x7f050015;
+        public static final int buttonDot=0x7f050012;
+        public static final int buttonEight=0x7f05000f;
+        public static final int buttonEquel=0x7f050014;
+        public static final int buttonFive=0x7f05000b;
+        public static final int buttonFour=0x7f05000a;
+        public static final int buttonMinus=0x7f05000d;
+        public static final int buttonMultiple=0x7f050011;
+        public static final int buttonNine=0x7f050010;
+        public static final int buttonOne=0x7f050006;
+        public static final int buttonPlus=0x7f050009;
+        public static final int buttonSeven=0x7f05000e;
+        public static final int buttonSix=0x7f05000c;
+        public static final int buttonThree=0x7f050008;
+        public static final int buttonTwo=0x7f050007;
+        public static final int buttonZero=0x7f050013;
+        public static final int linearLayout1=0x7f050000;
+        public static final int linearLayout2=0x7f050005;
+        public static final int linearLayout3=0x7f050002;
+        public static final int textView1=0x7f050001;
     }
     public static final class layout {
         public static final int main=0x7f030000;
