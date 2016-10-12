@@ -33,10 +33,6 @@ namespace zalculus
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-
-           
-
-
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
 
@@ -134,10 +130,9 @@ namespace zalculus
             buttonMultiple.Click += delegate
             {
 
+                textbox.Text += "*";
 
-                string str = opera(buttonMinus);
-				textbox.Text += str;
-
+                opera(buttonMultiple);
 
             };
             buttonDevide.Click += delegate
@@ -145,14 +140,14 @@ namespace zalculus
 
                 textbox.Text += "/";
 
-                opera(buttonMinus);
+                opera(buttonDevide);
 
             };
             buttonPlus.Click += delegate
             {
                 textbox.Text += "+";
 
-                opera(buttonMinus);
+                opera(buttonPlus);
 
 
 
