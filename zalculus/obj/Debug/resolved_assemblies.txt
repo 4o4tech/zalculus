@@ -6,17 +6,6 @@ D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.dll
 D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.Xml.dll
 D:\android app\zalculus\zalculus\obj\Debug\android\assets\mscorlib.dll
 D:\android app\zalculus\zalculus\obj\Debug\android\assets\Xamarin.Insights.dll
-D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.Threading.dll
-D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.Runtime.dll
-D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.ComponentModel.Composition.dll
-D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.Collections.dll
-D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.Collections.Concurrent.dll
-D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.Diagnostics.Debug.dll
-D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.Reflection.dll
-D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.Linq.dll
-D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.Runtime.InteropServices.dll
-D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.Runtime.Extensions.dll
-D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.Reflection.Extensions.dll
 D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.Net.Http.dll
 D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.Runtime.Serialization.dll
 D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.ServiceModel.Internals.dll

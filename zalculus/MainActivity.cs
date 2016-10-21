@@ -3,9 +3,7 @@ using Android.Widget;
 using Android.OS;
 
 
-
-
-/*
+/*   
  
 build by jimze 
 16/9/22    
@@ -26,8 +24,6 @@ namespace zalculus
         bool flag = false;
         int length1 = 0;
         int length2 = 0;
-
-        
 
 
         protected override void OnCreate(Bundle savedInstanceState)

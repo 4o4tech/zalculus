@@ -1,12 +1,9 @@
 D:\android app\zalculus\zalculus\bin\Debug\zalculus.dll
 D:\android app\zalculus\zalculus\bin\Debug\zalculus.pdb
-D:\android app\zalculus\zalculus\bin\Debug\com.int_double.clingk.apk
-D:\android app\zalculus\zalculus\bin\Debug\com.int_double.clingk-Signed.apk
 D:\android app\zalculus\zalculus\bin\Debug\Xamarin.Insights.dll
 D:\android app\zalculus\zalculus\bin\Debug\Xamarin.Insights.xml
 D:\android app\zalculus\zalculus\obj\Debug\zalculus.dll
 D:\android app\zalculus\zalculus\obj\Debug\zalculus.pdb
-D:\android app\zalculus\zalculus\obj\Debug\android\bin\com.int_double.clingk.apk
 D:\android app\zalculus\zalculus\obj\Debug\res\layout\main.xml
 D:\android app\zalculus\zalculus\obj\Debug\res\values\strings.xml
 D:\android app\zalculus\zalculus\obj\Debug\res\mipmap-hdpi\icon.png
@@ -16,7 +13,10 @@ D:\android app\zalculus\zalculus\obj\Debug\res\mipmap-xxhdpi\icon.png
 D:\android app\zalculus\zalculus\obj\Debug\res\mipmap-xxxhdpi\icon.png
 D:\android app\zalculus\zalculus\obj\Debug\R.cs.flag
 D:\android app\zalculus\zalculus\obj\Debug\uploadflags.txt
-D:\android app\zalculus\zalculus\obj\Debug\zalculus.csprojResolveAssemblyReference.cache
+D:\android app\zalculus\zalculus\bin\Debug\com.int_double.clingck.apk
+D:\android app\zalculus\zalculus\bin\Debug\com.int_double.clingck-Signed.apk
+D:\android app\zalculus\zalculus\obj\Debug\android\bin\com.int_double.clingck.apk
+D:\android app\zalculus\zalculus\obj\Debug\res\drawable\zalculus.png
 D:\android app\zalculus\zalculus\bin\Debug\zalculus.dll.mdb
 D:\android app\zalculus\zalculus\bin\Debug\Java.Interop.dll.mdb
 D:\android app\zalculus\zalculus\bin\Debug\Mono.Android.dll.mdb
@@ -31,7 +31,6 @@ D:\android app\zalculus\zalculus\bin\Debug\System.Xml.dll.mdb
 D:\android app\zalculus\zalculus\obj\Debug\android\assets\Java.Interop.dll.mdb
 D:\android app\zalculus\zalculus\obj\Debug\android\assets\Mono.Android.dll.mdb
 D:\android app\zalculus\zalculus\obj\Debug\android\assets\mscorlib.dll.mdb
-D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
 D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.Core.dll.mdb
 D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.dll.mdb
 D:\android app\zalculus\zalculus\obj\Debug\android\assets\System.Net.Http.dll.mdb
