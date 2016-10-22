@@ -2,5 +2,4 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.int_double.clingck" android:installLocation="auto">
 	<uses-sdk android:minSdkVersion="23" />
 	<application android:allowBackup="true" android:label="@string/app_name" android:icon="@drawable/zalculus"></application>
-	<application android:allowBackup="true" android:label="@drawable/zalculus"></application>
 </manifest>
